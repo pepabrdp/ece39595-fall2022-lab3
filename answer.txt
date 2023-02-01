@@ -15,3 +15,7 @@ A: The three different type of meetings  are Sprint Planning, Daily Scrum/Standu
 Sprint Planning are meant to determine what to complete in the coming sprint, move stories in sprint scope form backlog to current sprint, determine story points and assign stories to team and to start the sprint.
 Daily Scrum or Standups are short meetings that happen everyday, usually 10 minutes long and are meant to discuss work completed,work plan for the day and any blockers.
 Finally, Sprint Retrospective occurs at the endo fo the sprint, they discuss work complete and move incomplete work to backlog, and close the sprint. 
+
+(d)Differentiate between Epic, Story, Bug and Task issue types in JIRA
+A: An Epic captures a large body of work that can be broken down into several smaller stories. A Story is a software system requirement that is expressed in a few short senteces. 
+A bug is a problem which impairs or prevents the functions of a product. Finally, a Task represents wokr that needs to be done.
