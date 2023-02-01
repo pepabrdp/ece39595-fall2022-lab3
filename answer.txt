@@ -2,8 +2,3 @@ Questions:
 (a) what are some Pros and Cons of Agile development(vs non-Agile)?
 A: Some pros of Agile development are, the constant collaboration with customers, which allow the project to be shaped to the comsumer wants/needs as well as having emphasis on DevOps which promotes faster results. 
 Conversely, Agile development has a difficult time in resource planning, as constant iterations make it hard to predict expenses and progress. Also, it is easy to get "sidetracked" trying to implement new functionalities asked by consumers and deviate from the initial result idea. 
-
-(b)Explain the role and resposabilities of the Scrum Master vs the Product Owner.
-A:The Product Owner sets the direction for the team, handles release management and stackholder management. 
-Regarding the Scrum Master, they are responsible for all scrum related tasks, such as JIRA tooling, facilitating sprints and meetings, standups all done
-by the Scrum Master.   
