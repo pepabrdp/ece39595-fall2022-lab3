@@ -6,4 +6,6 @@ Conversely, Agile development has a difficult time in resource planning, as cons
 (b)Explain the role and resposabilities of the Scrum Master vs the Product Owner.
 A:The Product Owner sets the direction for the team, handles release management and stackholder management. 
 Regarding the Scrum Master, they are responsible for all scrum related tasks, such as JIRA tooling, facilitating sprints and meetings, standups all done
-by the Scrum Master.   
+by the Scrum Master.  
+
+(c)
